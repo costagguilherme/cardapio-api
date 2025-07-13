@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Sushi de Salmão",
+        "price": 22.5,
+        "category": "Tradicional",
+        "image": "https://example.com/salmao.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sashimi de Atum",
+        "price": 28.0,
+        "category": "Sashimi",
+        "image": "https://example.com/atum.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Combinado Especial",
+        "price": 65.0,
+        "category": "Combinado",
+        "image": "https://example.com/combinado.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Temaki de Salmão",
+        "price": 18.0,
+        "category": "Temaki",
+        "image": "https://example.com/temaki-salmao.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Uramaki Califórnia",
+        "price": 20.0,
+        "category": "Uramaki",
+        "image": "https://example.com/california.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nigiri de Polvo",
+        "price": 24.5,
+        "category": "Nigiri",
+        "image": "https://example.com/polvo.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Hossomaki de Pepino",
+        "price": 12.0,
+        "category": "Vegetariano",
+        "image": "https://example.com/pepino.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Combinado Vegetariano",
+        "price": 45.0,
+        "category": "Combinado",
+        "image": "https://example.com/combinado-veg.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Sashimi de Salmão",
+        "price": 30.0,
+        "category": "Sashimi",
+        "image": "https://example.com/sashimi-salmao.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Sushi de Camarão",
+        "price": 25.0,
+        "category": "Tradicional",
+        "image": "https://example.com/camarao.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Temaki de Atum",
+        "price": 19.0,
+        "category": "Temaki",
+        "image": "https://example.com/temaki-atum.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Uramaki Skin",
+        "price": 21.0,
+        "category": "Uramaki",
+        "image": "https://example.com/skin.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Nigiri de Salmão",
+        "price": 23.0,
+        "category": "Nigiri",
+        "image": "https://example.com/nigiri-salmao.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Hossomaki de Manga",
+        "price": 13.0,
+        "category": "Vegetariano",
+        "image": "https://example.com/manga.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Sushi Hot Roll",
+        "price": 26.0,
+        "category": "Frito",
+        "image": "https://example.com/hotroll.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Combinado Premium",
+        "price": 85.0,
+        "category": "Combinado",
+        "image": "https://example.com/combinado-premium.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Sashimi de Polvo",
+        "price": 32.0,
+        "category": "Sashimi",
+        "image": "https://example.com/sashimi-polvo.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Temaki de Camarão",
+        "price": 20.0,
+        "category": "Temaki",
+        "image": "https://example.com/temaki-camarao.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Uramaki Salmão com Cream Cheese",
+        "price": 22.0,
+        "category": "Uramaki",
+        "image": "https://example.com/uramaki-salmao-cheese.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Sushi Vegano de Abacate",
+        "price": 15.0,
+        "category": "Vegetariano",
+        "image": "https://example.com/abacate.jpg"
+    }
+]
