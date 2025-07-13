@@ -4,56 +4,56 @@
         "name": "Sushi de Salmão",
         "price": 22.5,
         "category": "Tradicional",
-        "image": "https://example.com/salmao.jpg"
+        "image": "https://www.mardanoruega.com/contentassets/7c6a77660bf145e3b872697d5ecc9393/full_nigiri-de-salmao.jpg?width=1100&height=964&transform=downFill&hash=99a924832e165fa5da93a2a739187cc3"
     },
     {
         "id": 2,
         "name": "Sashimi de Atum",
         "price": 28.0,
         "category": "Sashimi",
-        "image": "https://example.com/atum.jpg"
+        "image": "https://nakayoshisushibar.meucatalogofacil.com/_core/_uploads/709/2021/03/2305240321hh9gaa72ej_thumb.jpg"
     },
     {
         "id": 3,
         "name": "Combinado Especial",
         "price": 65.0,
         "category": "Combinado",
-        "image": "https://example.com/combinado.jpg"
+        "image": "https://tanabatadelivery.com.br.atuali.com/images/stories/virtuemart/product/promocao_combo_60_pecas.jpg"
     },
     {
         "id": 4,
         "name": "Temaki de Salmão",
         "price": 18.0,
         "category": "Temaki",
-        "image": "https://example.com/temaki-salmao.jpg"
+        "image": "https://sakura.com.br/wp-content/uploads/2016/09/BLOG_receitas_temaki_II.jpg"
     },
     {
         "id": 5,
         "name": "Uramaki Califórnia",
         "price": 20.0,
         "category": "Uramaki",
-        "image": "https://example.com/california.jpg"
+        "image": "https://tanabatadelivery.com.br.atuali.com/images/stories/virtuemart/product/uramaki_california.jpg"
     },
     {
         "id": 6,
         "name": "Nigiri de Polvo",
         "price": 24.5,
         "category": "Nigiri",
-        "image": "https://example.com/polvo.jpg"
+        "image": "https://djapa.com.br/wp-content/uploads/2024/07/niguiri-de-polvo.jpg"
     },
     {
         "id": 7,
         "name": "Hossomaki de Pepino",
         "price": 12.0,
         "category": "Vegetariano",
-        "image": "https://example.com/pepino.jpg"
+        "image": "https://nakayoshisushibar.meucatalogofacil.com/_core/_uploads//2021/03/0040250321dij7ihjg3k.jpg"
     },
     {
         "id": 8,
         "name": "Combinado Vegetariano",
         "price": 45.0,
         "category": "Combinado",
-        "image": "https://example.com/combinado-veg.jpg"
+        "image": "https://rapidito.com.br/uploads/8/1619011610.jpg"
     },
     {
         "id": 9,
@@ -67,76 +67,76 @@
         "name": "Sushi de Camarão",
         "price": 25.0,
         "category": "Tradicional",
-        "image": "https://example.com/camarao.jpg"
+        "image": "https://images.tcdn.com.br/img/img_prod/842178/salmao_fresco_fatiado_tipo_sashimi_77_1_20200903170409.jpg"
     },
     {
         "id": 11,
         "name": "Temaki de Atum",
         "price": 19.0,
         "category": "Temaki",
-        "image": "https://example.com/temaki-atum.jpg"
+        "image": "https://djapa.com.br/wp-content/uploads/2022/02/temaki.jpg"
     },
     {
         "id": 12,
         "name": "Uramaki Skin",
         "price": 21.0,
         "category": "Uramaki",
-        "image": "https://example.com/skin.jpg"
+        "image": "https://lh5.googleusercontent.com/proxy/yH0bVf71-twYwkvDvOm-uFgiYp9B-H6QDoQdBQTjkAxANWNKhXFM5txgxOV1M-cRiHQT-ojY8cDgA0-jXAhlgxIt24UMJ_Q"
     },
     {
         "id": 13,
         "name": "Nigiri de Salmão",
         "price": 23.0,
         "category": "Nigiri",
-        "image": "https://example.com/nigiri-salmao.jpg"
+        "image": "https://alloydeliveryimages.s3.sa-east-1.amazonaws.com/item_images/1978/637156595d90axzznq.webp"
     },
     {
         "id": 14,
         "name": "Hossomaki de Manga",
         "price": 13.0,
         "category": "Vegetariano",
-        "image": "https://example.com/manga.jpg"
+        "image": "https://static.ifood-static.com.br/image/upload/t_high/pratos/02c85814-56b0-481b-ab62-0a13a5ff2202/202207041930_0GEH_i.jpg"
     },
     {
         "id": 15,
         "name": "Sushi Hot Roll",
         "price": 26.0,
         "category": "Frito",
-        "image": "https://example.com/hotroll.jpg"
+        "image": "https://receitadaboa.com.br/wp-content/uploads/2024/10/Salmon-Carioquinha.jpg"
     },
     {
         "id": 16,
         "name": "Combinado Premium",
         "price": 85.0,
         "category": "Combinado",
-        "image": "https://example.com/combinado-premium.jpg"
+        "image": "https://imagens.jotaja.com/produtos/7220abe1-7d58-4aa5-976c-3bbac8860e71.jpg"
     },
     {
         "id": 17,
         "name": "Sashimi de Polvo",
         "price": 32.0,
         "category": "Sashimi",
-        "image": "https://example.com/sashimi-polvo.jpg"
+        "image": "https://garden.chefware.com.br/76/0/0/sashimi-polvo-10-unidades.jpg"
     },
     {
         "id": 18,
         "name": "Temaki de Camarão",
         "price": 20.0,
         "category": "Temaki",
-        "image": "https://example.com/temaki-camarao.jpg"
+        "image": "https://nozomusushi.primecomerce.store/_core/_uploads/206/2024/08/1725220824a03dkc7bdc.jpg"
     },
     {
         "id": 19,
         "name": "Uramaki Salmão com Cream Cheese",
         "price": 22.0,
         "category": "Uramaki",
-        "image": "https://example.com/uramaki-salmao-cheese.jpg"
+        "image": "https://shizuesushi.pedidofacilonline.com.br/wp-content/uploads/2022/04/23.jpg"
     },
     {
         "id": 20,
         "name": "Sushi Vegano de Abacate",
         "price": 15.0,
         "category": "Vegetariano",
-        "image": "https://example.com/abacate.jpg"
+        "image": "https://img.freepik.com/fotos-premium/sushi-vegano-com-tofu-abacate-e-manga-comida-saudavel_230432-3035.jpg"
     }
 ]
